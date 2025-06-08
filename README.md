@@ -17,65 +17,109 @@
 | `06_File_Handling_and_Exceptions`   | File I/O, JSON, Exception Handling, Logging               |
 
 ---
-📂 [01_Python_Basics](./01_Python_Basics)
-- 📄 [mutability_vs_immutability.ipynb](./01_Python_Basics/mutability_vs_immutability.ipynb)
-- 📄 [operators_in_python.ipynb](./01_Python_Basics/operators_in_python.ipynb)
-- 📄 [type_casting.ipynb](./01_Python_Basics/type_casting.ipynb)
-- 📄 [conditionals.ipynb](./01_Python_Basics/conditionals.ipynb)
-- 📄 [loops.ipynb](./01_Python_Basics/loops.ipynb)
-- 📄 [live_session_3_aug.ipynb](./01_Python_Basics/live_session_3_aug.ipynb)
+# 📂 Project Structure
 
-📂 [02_Data_Structures](./02_Data_Structures)
-- 📄 [data_structures_overview.ipynb](./02_Data_Structures/data_structures_overview.ipynb)
-- 📄 [strings.ipynb](./02_Data_Structures/strings.ipynb)
-- 📄 [lists.ipynb](./02_Data_Structures/lists.ipynb)
-- 📄 [tuples_and_sets.ipynb](./02_Data_Structures/tuples_and_sets.ipynb)
-- 📄 [dictionaries.ipynb](./02_Data_Structures/dictionaries.ipynb)
-- 📄 [test_practice_ds.py](./02_Data_Structures/test_practice_ds.py)
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/01_Python_Basics" target="_blank">01_Python_Basics</a></summary>
 
-📂 [03_Functions_and_Lambda](./03_Functions_and_Lambda)
-- 📄 [functions.ipynb](./03_Functions_and_Lambda/functions.ipynb)
-- 📄 [iterators_and_generators.ipynb](./03_Functions_and_Lambda/iterators_and_generators.ipynb)
-- 📄 [lambda_map_reduce_filter.ipynb](./03_Functions_and_Lambda/lambda_map_reduce_filter.ipynb)
-- 📄 [live_session_17_aug.ipynb](./03_Functions_and_Lambda/live_session_17_aug.ipynb)
+- 📓 [03_mutablity_unmutability.ipynb](01_Python_Basics/03_mutablity_unmutability.ipynb)  
+- 📓 [04_operaters.ipynb](01_Python_Basics/04_operaters.ipynb)  
+- 📓 [05_TypeCasting.ipynb](01_Python_Basics/05_TypeCasting.ipynb)  
+- 📓 [06_Conditionals.ipynb](01_Python_Basics/06_Conditionals.ipynb)  
+- 📓 [07_loops.ipynb](01_Python_Basics/07_loops.ipynb)  
+- 📓 [live_3rg_aug.ipynb](01_Python_Basics/live_3rg_aug.ipynb)  
+</details>
 
-📂 [04_Object_Oriented_Programming](./04_Object_Oriented_Programming)
-- 📄 [oops_basics.ipynb](./04_Object_Oriented_Programming/oops_basics.ipynb)
-- 📄 [inheritance_and_abstraction.ipynb](./04_Object_Oriented_Programming/inheritance_and_abstraction.ipynb)
-- 📄 [polymorphism_and_encapsulation.ipynb](./04_Object_Oriented_Programming/polymorphism_and_encapsulation.ipynb)
-- 📄 [class_and_static_methods.ipynb](./04_Object_Oriented_Programming/class_and_static_methods.ipynb)
-- 📄 [dunder_methods.ipynb](./04_Object_Oriented_Programming/dunder_methods.ipynb)
-- 📄 [decorators.ipynb](./04_Object_Oriented_Programming/decorators.ipynb)
-- 📄 [property_decorator.ipynb](./04_Object_Oriented_Programming/property_decorator.ipynb)
-- 📄 [live_session_24_aug.ipynb](./04_Object_Oriented_Programming/live_session_24_aug.ipynb)
-- 📄 [live_session_25_aug.ipynb](./04_Object_Oriented_Programming/live_session_25_aug.ipynb)
-- 📄 [oop_test.ipynb](./04_Object_Oriented_Programming/oop_test.ipynb)
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/02_Data_Structures" target="_blank">02_Data_Structures</a></summary>
 
-📂 [05_Data_Toolkit_and_Visualization](./05_Data_Toolkit_and_Visualization)
-- 📄 [numpy_basics.ipynb](./05_Data_Toolkit_and_Visualization/numpy_basics.ipynb)
-- 📄 [numpy_advanced_1.ipynb](./05_Data_Toolkit_and_Visualization/numpy_advanced_1.ipynb)
-- 📄 [numpy_advanced_2.ipynb](./05_Data_Toolkit_and_Visualization/numpy_advanced_2.ipynb)
-- 📄 [pandas_basics.ipynb](./05_Data_Toolkit_and_Visualization/pandas_basics.ipynb)
-- 📄 [pandas_advanced_1.ipynb](./05_Data_Toolkit_and_Visualization/pandas_advanced_1.ipynb)
-- 📄 [pandas_advanced_2.ipynb](./05_Data_Toolkit_and_Visualization/pandas_advanced_2.ipynb)
-- 📄 [pandas_advanced_3.ipynb](./05_Data_Toolkit_and_Visualization/pandas_advanced_3.ipynb)
-- 📄 [pandas_advanced_4.ipynb](./05_Data_Toolkit_and_Visualization/pandas_advanced_4.ipynb)
-- 📄 [matplotlib.ipynb](./05_Data_Toolkit_and_Visualization/matplotlib.ipynb)
-- 📄 [seaborn.ipynb](./05_Data_Toolkit_and_Visualization/seaborn.ipynb)
-- 📄 [plotly.ipynb](./05_Data_Toolkit_and_Visualization/plotly.ipynb)
-- 📄 [bokeh.ipynb](./05_Data_Toolkit_and_Visualization/bokeh.ipynb)
-- 📄 [logging_and_debugging.ipynb](./05_Data_Toolkit_and_Visualization/logging_and_debugging.ipynb)
-- 📄 [live_session_1_sep.ipynb](./05_Data_Toolkit_and_Visualization/live_session_1_sep.ipynb)
-- 📄 [live_session_31_aug.ipynb](./05_Data_Toolkit_and_Visualization/live_session_31_aug.ipynb)
+- 📓 [01_data_structure.ipynb](02_Data_Structures/01_data_structure.ipynb)  
+- 📓 [02_strings.ipynb](02_Data_Structures/02_strings.ipynb)  
+- 📓 [03_lists.ipynb](02_Data_Structures/03_lists.ipynb)  
+- 📓 [04_tupels and sets.ipynb](02_Data_Structures/04_tupels and sets.ipynb)  
+- 📓 [05_ditionary.ipynb](02_Data_Structures/05_ditionary.ipynb)  
+- 🐍 [test.py](02_Data_Structures/test.py)  
+</details>
 
-📂 [06_File_Handling_and_Exceptions](./06_File_Handling_and_Exceptions)
-- 📄 [files_handling_basics.ipynb](./06_File_Handling_and_Exceptions/files_handling_basics.ipynb)
-- 📄 [reading_and_writing_files.ipynb](./06_File_Handling_and_Exceptions/reading_and_writing_files.ipynb)
-- 📄 [exception_handling.ipynb](./06_File_Handling_and_Exceptions/exception_handling.ipynb)
-- 📄 [general_exception_usage.ipynb](./06_File_Handling_and_Exceptions/general_exception_usage.ipynb)
-- 📄 [interpreted_vs_compiled.ipynb](./06_File_Handling_and_Exceptions/interpreted_vs_compiled.ipynb)
-- 📄 [logging_and_debugging.ipynb](./06_File_Handling_and_Exceptions/logging_and_debugging.ipynb)
-- 📄 [live_session_14_sep.ipynb](./06_File_Handling_and_Exceptions/live_session_14_sep.ipynb)
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/03_Functions_and_Lambda" target="_blank">03_Functions_and_Lambda</a></summary>
+
+- 📓 [01_functions.ipynb](03_Functions_and_Lambda/01_functions.ipynb)  
+- 📓 [02_iterators_&_generators.ipynb](03_Functions_and_Lambda/02_iterators_&_generators.ipynb)  
+- 📓 [03_lambda_map_reduce_filter.ipynb](03_Functions_and_Lambda/03_lambda_map_reduce_filter.ipynb)  
+- 📓 [live_17th_aug.ipynb](03_Functions_and_Lambda/live_17th_aug.ipynb)  
+</details>
+
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/04_Object_Oriented_Programming_OOP" target="_blank">04_Object_Oriented_Programming_OOP</a></summary>
+
+- 📓 [01_oops.ipynb](04_Object_Oriented_Programming_OOP/01_oops.ipynb)  
+- 📓 [02_inheritance and abstraction.ipynb](04_Object_Oriented_Programming_OOP/02_inheritance and abstraction.ipynb)  
+- 📓 [03_polymorphism and encapsulation.ipynb](04_Object_Oriented_Programming_OOP/03_polymorphism and encapsulation.ipynb)  
+- 📓 [04_class and static.ipynb](04_Object_Oriented_Programming_OOP/04_class and static.ipynb)  
+- 📓 [05_dunder_method.ipynb](04_Object_Oriented_Programming_OOP/05_dunder_method.ipynb)  
+- 📓 [06_decorators.ipynb](04_Object_Oriented_Programming_OOP/06_decorators.ipynb)  
+- 📓 [07_property_dec.ipynb](04_Object_Oriented_Programming_OOP/07_property_dec.ipynb)  
+- 📓 [live_24aug.ipynb](04_Object_Oriented_Programming_OOP/live_24aug.ipynb)  
+- 📓 [live_25aug.ipynb](04_Object_Oriented_Programming_OOP/live_25aug.ipynb)  
+- 📓 [test.ipynb](04_Object_Oriented_Programming_OOP/test.ipynb)  
+</details>
+
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/05_Data_Toolkit_and_Visualization" target="_blank">05_Data_Toolkit_and_Visualization</a></summary>
+
+- 📓 [01_Numpy.ipynb](05_Data_Toolkit_and_Visualization/01_Numpy.ipynb)  
+- 📓 [02_numpy_adv_1.ipynb](05_Data_Toolkit_and_Visualization/02_numpy_adv_1.ipynb)  
+- 📓 [03_numpy_adv_2.ipynb](05_Data_Toolkit_and_Visualization/03_numpy_adv_2.ipynb)  
+- 📓 [04_pands basic.ipynb](05_Data_Toolkit_and_Visualization/04_pands basic.ipynb)  
+- 📓 [05_pandas adv1.ipynb](05_Data_Toolkit_and_Visualization/05_pandas adv1.ipynb)  
+- 📓 [06_pandas adv02.ipynb](05_Data_Toolkit_and_Visualization/06_pandas adv02.ipynb)  
+- 📓 [07_pandas_adv03.ipynb](05_Data_Toolkit_and_Visualization/07_pandas_adv03.ipynb)  
+- 📓 [08_pandas_adv04.ipynb](05_Data_Toolkit_and_Visualization/08_pandas_adv04.ipynb)  
+- 📓 [09_Matplotlib.ipynb](05_Data_Toolkit_and_Visualization/09_Matplotlib.ipynb)  
+- 📓 [10_seaborn.ipynb](05_Data_Toolkit_and_Visualization/10_seaborn.ipynb)  
+- 📓 [11_plotly.ipynb](05_Data_Toolkit_and_Visualization/11_plotly.ipynb)  
+- 📓 [12_bokeh.ipynb](05_Data_Toolkit_and_Visualization/12_bokeh.ipynb)  
+- 📓 [13_logging&debugging.ipynb](05_Data_Toolkit_and_Visualization/13_logging&debugging.ipynb)  
+- 📄 [Bank_churn.csv](05_Data_Toolkit_and_Visualization/Bank_churn.csv)  
+- 📄 [LUSID Excel - Setting up your market data.xlsx](05_Data_Toolkit_and_Visualization/LUSID Excel - Setting up your market data.xlsx)  
+- 📓 [live 1st sep.ipynb](05_Data_Toolkit_and_Visualization/live 1st sep.ipynb)  
+- 📓 [live 31st.ipynb](05_Data_Toolkit_and_Visualization/live 31st.ipynb)  
+- 📄 [services.csv](05_Data_Toolkit_and_Visualization/services.csv)  
+- 📄 [taxonomy.csv](05_Data_Toolkit_and_Visualization/taxonomy.csv)  
+- 🌐 [test.html](05_Data_Toolkit_and_Visualization/test.html)  
+</details>
+
+<details>
+<summary>📁 <a href="https://github.com/swarajRB/Python_Complete_Revision/tree/main/06_File_Handling_and_Exceptions" target="_blank">06_File_Handling_and_Exceptions</a></summary>
+
+- 📄 Memory maanagement  
+- 📄 pwskills  
+- 📄 test  
+- 📓 [01_FIlesHandling basic.ipynb](06_File_Handling_and_Exceptions/01_FIlesHandling basic.ipynb)  
+- 📓 [02_Reading and writing.ipynb](06_File_Handling_and_Exceptions/02_Reading and writing.ipynb)  
+- 📓 [03_Exceptional handling.ipynb](06_File_Handling_and_Exceptions/03_Exceptional handling.ipynb)  
+- 📓 [04_General use of exception handling.ipynb](06_File_Handling_and_Exceptions/04_General use of exception handling.ipynb)  
+- 📓 [05_interpreted_vs_complied.ipynb](06_File_Handling_and_Exceptions/05_interpreted_vs_complied.ipynb)  
+- 📓 [13_logging&debugging.ipynb](06_File_Handling_and_Exceptions/13_logging&debugging.ipynb)  
+- 📄 [exam.txt](06_File_Handling_and_Exceptions/exam.txt)  
+- 📄 [example.txt](06_File_Handling_and_Exceptions/example.txt)  
+- 📄 [example_csv.csv](06_File_Handling_and_Exceptions/example_csv.csv)  
+- 📄 [file.txt](06_File_Handling_and_Exceptions/file.txt)  
+- 📄 [file_json.json](06_File_Handling_and_Exceptions/file_json.json)  
+- 📓 [live14th.ipynb](06_File_Handling_and_Exceptions/live14th.ipynb)  
+- 📦 [test_bin.bin](06_File_Handling_and_Exceptions/test_bin.bin)  
+- 📄 [test_buf.txt](06_File_Handling_and_Exceptions/test_buf.txt)  
+</details>
+
+<details>
+<summary>⚙️ Other Files</summary>
+
+- ⚙️ [.gitattributes](.gitattributes)  
+- ⚙️ [.gitignore](.gitignore)  
+- 📖 [README.md](README.md)  
+</details>
+
 
 
 ## 🚀 What You'll Find
